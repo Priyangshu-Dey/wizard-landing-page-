@@ -1,1 +1,2 @@
 # wizard-landing-page-
+This is a  simple webpage made with HTML, CSS and minimal JS (For loading animation). I took inspiration from a pintrest design ( https://pin.it/6GMH9TN7k ) and bulit it top down to have an hands-on experience of GSAP animation. GSAP is a library of JS, which really makes the animation job very easy for a programmer! I used GSAP here to make the simple loading animation for this landing page.
